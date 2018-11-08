@@ -3,3 +3,16 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.button {
+  width: 100px;
+  height: 40px;
+  }
+  
+  .button-blue{
+      background-color: blue;
+  }
+  
+  .button-grey{
+      background-color: gray;
+  }
